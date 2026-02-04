@@ -124,6 +124,3 @@ function criarAnimal(nome, sobrenome) {
 * Entender escopo e closures
 * Aprender padrões comuns em JavaScript
 * Escrever código mais organizado e seguro
-
-
-Só me dizer 💙
